@@ -1,3 +1,3 @@
 # demo-
-my first repository 
-author - Sabian Mahmud 
+my first repository.
+Author - Sabian Mahmud 
